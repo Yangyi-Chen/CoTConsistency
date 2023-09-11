@@ -25,7 +25,7 @@ The annotation file has the following format. Each item in the JSONL file contai
     - six candidate answers for the subquestion.
     - the ground truth id of the subquestion.
   
-Note that the bboxes, clue, and inference are annotated by the original Sherlock dataset.
+Note that the bboxes, clue, and ground truth inference are annotated by the original Sherlock dataset.
 ## Citation
 Please kindly cite our paper:
 
