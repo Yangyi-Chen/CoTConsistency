@@ -1,6 +1,6 @@
 # CoTConsistency
 
-This reposition contains the released data for the paper "[Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models]()".
+This reposition contains the released data for the paper "[Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models](https://arxiv.org/abs/2309.04461)".
 
 
 ## Overview
