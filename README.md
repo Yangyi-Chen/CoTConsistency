@@ -30,4 +30,10 @@ Note that the bboxes, clue, and ground truth inference are annotated by the orig
 Please kindly cite our paper:
 
 ```
+@article{chen2023measuring,
+  title={Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models},
+  author={Chen, Yangyi and Sikka, Karan and Cogswell, Michael and Ji, Heng and Divakaran, Ajay},
+  journal={arXiv preprint arXiv:2309.04461},
+  year={2023}
+}
 ```
